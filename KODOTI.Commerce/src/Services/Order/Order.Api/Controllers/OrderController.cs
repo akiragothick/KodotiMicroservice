@@ -35,6 +35,25 @@ namespace Order.Api.Controllers
         public async Task<OrderDto> Get(int id)
             => await _orderQueryService.GetAsync(id);
 
+        /*
+         * 
+         * {
+         *  "paymentType": 0,
+         *  "clientId": 2,
+         *  "items" : [
+         *      {
+         *          "productId": 3,
+         *          "quantity": 1,
+         *          "price": 100
+         *      },
+         *      {
+         *          "productId": 1,
+         *          "quantity": 1,
+         *          "price": 400
+         *      }
+         *  ]
+         * }
+         */
         [HttpPost]
         public async Task Create(OrderCreateCommand notification)
             => await _mediator.Publish(notification);

@@ -2663,13 +2663,28 @@
           "MediatR": "9.0.0",
           "Order.Common": "1.0.0",
           "Order.Domain": "1.0.0",
-          "Order.Persistence.Database": "1.0.0"
+          "Order.Persistence.Database": "1.0.0",
+          "Order.Service.Proxies": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Order.Service.EventHandlers.dll": {}
         },
         "runtime": {
           "bin/placeholder/Order.Service.EventHandlers.dll": {}
+        }
+      },
+      "Order.Service.Proxies/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "5.0.0",
+          "System.Text.Json": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Order.Service.Proxies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.Service.Proxies.dll": {}
         }
       },
       "Order.Service.Queries/1.0.0": {
@@ -8440,6 +8455,11 @@
       "path": "../Order.Service.EventHandlers/Order.Service.EventHandlers.csproj",
       "msbuildProject": "../Order.Service.EventHandlers/Order.Service.EventHandlers.csproj"
     },
+    "Order.Service.Proxies/1.0.0": {
+      "type": "project",
+      "path": "../Order.Service.Proxies/Order.Service.Proxies.csproj",
+      "msbuildProject": "../Order.Service.Proxies/Order.Service.Proxies.csproj"
+    },
     "Order.Service.Queries/1.0.0": {
       "type": "project",
       "path": "../Order.Service.Queries/Order.Service.Queries.csproj",
@@ -8474,6 +8494,7 @@
       "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore >= 5.0.0",
       "Order.Persistence.Database >= 1.0.0",
       "Order.Service.EventHandlers >= 1.0.0",
+      "Order.Service.Proxies >= 1.0.0",
       "Order.Service.Queries >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -8517,6 +8538,9 @@
             },
             "D:\\GITHUB\\KodotiMicroservice\\KODOTI.Commerce\\src\\Services\\Order\\Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj": {
               "projectPath": "D:\\GITHUB\\KodotiMicroservice\\KODOTI.Commerce\\src\\Services\\Order\\Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj"
+            },
+            "D:\\GITHUB\\KodotiMicroservice\\KODOTI.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj": {
+              "projectPath": "D:\\GITHUB\\KodotiMicroservice\\KODOTI.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj"
             },
             "D:\\GITHUB\\KodotiMicroservice\\KODOTI.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj": {
               "projectPath": "D:\\GITHUB\\KodotiMicroservice\\KODOTI.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj"

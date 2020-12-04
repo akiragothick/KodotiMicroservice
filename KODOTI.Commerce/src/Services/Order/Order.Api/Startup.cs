@@ -14,6 +14,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Order.Persistence.Database;
+using Order.Service.Proxies;
+using Order.Service.Proxies.Catalog;
 //using Order.Service.Proxies;
 //using Order.Service.Proxies.Catalog;
 using Order.Service.Queries;
@@ -49,6 +51,12 @@ namespace Order.Api
 			services.AddHealthChecks()
 					.AddCheck("self", () => HealthCheckResult.Healthy())
 					.AddDbContextCheck<OrderDbContext>(typeof(OrderDbContext).Name);
+
+			// ApiUrls
+			services.Configure<ApiUrls>(opts => Configuration.GetSection("ApiUrls").Bind(opts));
+
+			// Proxies
+			services.AddHttpClient<ICatalogProxy, CatalogProxy>();
 
 			// Event handlers
 			services.AddMediatR(Assembly.Load("Order.Service.EventHandlers"));

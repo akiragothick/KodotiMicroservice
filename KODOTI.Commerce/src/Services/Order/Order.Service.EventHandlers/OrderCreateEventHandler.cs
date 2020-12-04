@@ -3,8 +3,8 @@ using Microsoft.Extensions.Logging;
 using Order.Domain;
 using Order.Persistence.Database;
 using Order.Service.EventHandlers.Commands;
-//using Order.Service.Proxies.Catalog;
-//using Order.Service.Proxies.Catalog.Commands;
+using Order.Service.Proxies.Catalog;
+using Order.Service.Proxies.Catalog.Commands;
 using System;
 using System.Linq;
 using System.Threading;
@@ -16,16 +16,16 @@ namespace Order.Service.EventHandlers
        INotificationHandler<OrderCreateCommand>
     {
         private readonly OrderDbContext context;
-        //private readonly ICatalogProxy _catalogProxy;
+        private readonly ICatalogProxy _catalogProxy;
         private readonly ILogger<OrderCreateEventHandler> _logger;
 
         public OrderCreateEventHandler(
             OrderDbContext context,
-            //ICatalogProxy catalogProxy,
+            ICatalogProxy catalogProxy,
             ILogger<OrderCreateEventHandler> logger)
         {
             this.context = context;
-            //_catalogProxy = catalogProxy;
+            _catalogProxy = catalogProxy;
             _logger = logger;
         }
 
@@ -53,17 +53,17 @@ namespace Order.Service.EventHandlers
 
                 // 04. Update Stocks
                 _logger.LogInformation("--- Updating stock");
-                //await _catalogProxy.UpdateStockAsync(new ProductInStockUpdateStockCommand
-                //{
-                //    Items = notification.Items.Select(x => new ProductInStockUpdateItem
-                //    {
-                //        ProductId = x.ProductId,
-                //        Stock = x.Quantity,
-                //        Action = ProductInStockAction.Substract
-                //    })
-                //});
+				await _catalogProxy.UpdateStockAsync(new ProductInStockUpdateStockCommand
+				{
+					Items = notification.Items.Select(x => new ProductInStockUpdateItem
+					{
+						ProductId = x.ProductId,
+						Stock = x.Quantity,
+						Action = ProductInStockAction.Substract
+					})
+				});
 
-                await trx.CommitAsync();
+				await trx.CommitAsync();
             }
 
             _logger.LogInformation("--- New order creation ended");

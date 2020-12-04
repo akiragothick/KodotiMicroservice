@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Catalog.Api.Controllers
 {
 	[ApiController]
-	[Route("stocks")]
+	[Route("v1/stocks")]
 	public class ProductInStockController : ControllerBase
 	{
 		private readonly ILogger<DefaultController> _logger;

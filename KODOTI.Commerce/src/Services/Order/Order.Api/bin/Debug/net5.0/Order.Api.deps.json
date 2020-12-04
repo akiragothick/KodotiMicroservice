@@ -36,6 +36,7 @@
           "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": "5.0.0",
           "Order.Persistence.Database": "1.0.0",
           "Order.Service.EventHandlers": "1.0.0",
+          "Order.Service.Proxies": "1.0.0",
           "Order.Service.Queries": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -2154,13 +2155,26 @@
           "MediatR": "9.0.0",
           "Order.Common": "1.0.0",
           "Order.Domain": "1.0.0",
-          "Order.Persistence.Database": "1.0.0"
+          "Order.Persistence.Database": "1.0.0",
+          "Order.Service.Proxies": "1.0.0"
         },
         "runtime": {
           "Order.Service.EventHandlers.dll": {}
         },
         "compile": {
           "Order.Service.EventHandlers.dll": {}
+        }
+      },
+      "Order.Service.Proxies/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "5.0.0",
+          "System.Text.Json": "5.0.0"
+        },
+        "runtime": {
+          "Order.Service.Proxies.dll": {}
+        },
+        "compile": {
+          "Order.Service.Proxies.dll": {}
         }
       },
       "Order.Service.Queries/1.0.0": {
@@ -5104,6 +5118,11 @@
       "sha512": ""
     },
     "Order.Service.EventHandlers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Order.Service.Proxies/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
