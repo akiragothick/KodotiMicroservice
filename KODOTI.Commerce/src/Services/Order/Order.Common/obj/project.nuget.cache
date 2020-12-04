@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOTueZXlEejSsGaPttNdQ+MxnKrOeAs1d75k5ykwNgR1sOHllvztvRRCc5N+w9pwUu36ljLGHzI0Yfh4i52wiw==",
+  "success": true,
+  "projectFilePath": "D:\\GITHUB\\KodotiMicroservice\\KODOTI.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

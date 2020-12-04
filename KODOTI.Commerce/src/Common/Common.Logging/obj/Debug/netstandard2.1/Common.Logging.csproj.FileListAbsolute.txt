@@ -1,0 +1,9 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\bin\Debug\netstandard2.1\Common.Logging.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\bin\Debug\netstandard2.1\Common.Logging.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\bin\Debug\netstandard2.1\Common.Logging.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\obj\Debug\netstandard2.1\Common.Logging.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\obj\Debug\netstandard2.1\Common.Logging.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\obj\Debug\netstandard2.1\Common.Logging.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\obj\Debug\netstandard2.1\Common.Logging.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\obj\Debug\netstandard2.1\Common.Logging.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Common\Common.Logging\obj\Debug\netstandard2.1\Common.Logging.csprojAssemblyReference.cache

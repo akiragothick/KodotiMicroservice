@@ -1,0 +1,16 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Service.EventHandlers.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Service.EventHandlers.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Service.EventHandlers.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Persistence.Database.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Common.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Persistence.Database.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netstandard2.1\Catalog.Domain.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netstandard2.1\Catalog.Service.EventHandlers.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netstandard2.1\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netstandard2.1\Catalog.Service.EventHandlers.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netstandard2.1\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netstandard2.1\Catalog.Service.EventHandlers.csproj.CopyComplete
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netstandard2.1\Catalog.Service.EventHandlers.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netstandard2.1\Catalog.Service.EventHandlers.pdb

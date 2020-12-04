@@ -1,0 +1,16 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Service.EventHandlers.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Service.EventHandlers.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Service.EventHandlers.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Persistence.Database.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Common.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Domain.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\bin\Debug\netstandard2.1\Order.Persistence.Database.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\obj\Debug\netstandard2.1\Order.Service.EventHandlers.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\obj\Debug\netstandard2.1\Order.Service.EventHandlers.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\obj\Debug\netstandard2.1\Order.Service.EventHandlers.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\obj\Debug\netstandard2.1\Order.Service.EventHandlers.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\obj\Debug\netstandard2.1\Order.Service.EventHandlers.csproj.CopyComplete
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\obj\Debug\netstandard2.1\Order.Service.EventHandlers.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Service.EventHandlers\obj\Debug\netstandard2.1\Order.Service.EventHandlers.pdb

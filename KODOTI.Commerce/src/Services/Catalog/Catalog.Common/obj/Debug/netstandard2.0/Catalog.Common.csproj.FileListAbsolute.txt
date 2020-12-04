@@ -1,0 +1,9 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\bin\Debug\netstandard2.0\Catalog.Common.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\bin\Debug\netstandard2.0\Catalog.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\bin\Debug\netstandard2.0\Catalog.Common.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\netstandard2.0\Catalog.Common.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\netstandard2.0\Catalog.Common.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\netstandard2.0\Catalog.Common.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\netstandard2.0\Catalog.Common.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\netstandard2.0\Catalog.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\netstandard2.0\Catalog.Common.pdb

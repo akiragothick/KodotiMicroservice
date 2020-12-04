@@ -1,0 +1,12 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Common.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CopyComplete
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.pdb

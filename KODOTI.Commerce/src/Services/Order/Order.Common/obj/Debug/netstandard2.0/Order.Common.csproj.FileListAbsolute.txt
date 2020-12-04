@@ -1,0 +1,9 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\bin\Debug\netstandard2.0\Order.Common.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\bin\Debug\netstandard2.0\Order.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\bin\Debug\netstandard2.0\Order.Common.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\obj\Debug\netstandard2.0\Order.Common.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\obj\Debug\netstandard2.0\Order.Common.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\obj\Debug\netstandard2.0\Order.Common.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\obj\Debug\netstandard2.0\Order.Common.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\obj\Debug\netstandard2.0\Order.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Common\obj\Debug\netstandard2.0\Order.Common.pdb

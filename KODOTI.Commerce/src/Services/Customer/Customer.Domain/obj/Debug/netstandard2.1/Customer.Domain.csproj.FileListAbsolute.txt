@@ -1,0 +1,9 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netstandard2.1\Customer.Domain.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netstandard2.1\Customer.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netstandard2.1\Customer.Domain.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.csprojAssemblyReference.cache

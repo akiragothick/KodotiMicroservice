@@ -1,0 +1,12 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\bin\Debug\netstandard2.1\Customer.Persistence.Database.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\bin\Debug\netstandard2.1\Customer.Persistence.Database.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\bin\Debug\netstandard2.1\Customer.Persistence.Database.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\bin\Debug\netstandard2.1\Customer.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\bin\Debug\netstandard2.1\Customer.Domain.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\obj\Debug\netstandard2.1\Customer.Persistence.Database.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\obj\Debug\netstandard2.1\Customer.Persistence.Database.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\obj\Debug\netstandard2.1\Customer.Persistence.Database.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\obj\Debug\netstandard2.1\Customer.Persistence.Database.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\obj\Debug\netstandard2.1\Customer.Persistence.Database.csproj.CopyComplete
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\obj\Debug\netstandard2.1\Customer.Persistence.Database.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Customer\Customer.Persistence.Database\obj\Debug\netstandard2.1\Customer.Persistence.Database.pdb

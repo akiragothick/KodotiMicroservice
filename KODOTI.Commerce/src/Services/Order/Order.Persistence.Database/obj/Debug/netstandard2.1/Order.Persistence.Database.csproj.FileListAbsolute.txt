@@ -1,0 +1,14 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\bin\Debug\netstandard2.1\Order.Persistence.Database.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\bin\Debug\netstandard2.1\Order.Persistence.Database.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\bin\Debug\netstandard2.1\Order.Persistence.Database.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\bin\Debug\netstandard2.1\Order.Common.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\bin\Debug\netstandard2.1\Order.Domain.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\bin\Debug\netstandard2.1\Order.Domain.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\bin\Debug\netstandard2.1\Order.Common.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\obj\Debug\netstandard2.1\Order.Persistence.Database.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\obj\Debug\netstandard2.1\Order.Persistence.Database.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\obj\Debug\netstandard2.1\Order.Persistence.Database.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\obj\Debug\netstandard2.1\Order.Persistence.Database.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\obj\Debug\netstandard2.1\Order.Persistence.Database.csproj.CopyComplete
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\obj\Debug\netstandard2.1\Order.Persistence.Database.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Order\Order.Persistence.Database\obj\Debug\netstandard2.1\Order.Persistence.Database.pdb

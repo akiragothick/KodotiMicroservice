@@ -1,0 +1,12 @@
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Paging.deps.json
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Paging.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Paging.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Collection.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Collection.pdb
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.csprojAssemblyReference.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.AssemblyInfo.cs
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.csproj.CopyComplete
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.dll
+D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.pdb
