@@ -1,9 +1,0 @@
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\netstandard2.1\Order.Service.Proxies.deps.json
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\netstandard2.1\Order.Service.Proxies.dll
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\netstandard2.1\Order.Service.Proxies.pdb
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netstandard2.1\Order.Service.Proxies.csprojAssemblyReference.cache
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netstandard2.1\Order.Service.Proxies.AssemblyInfoInputs.cache
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netstandard2.1\Order.Service.Proxies.AssemblyInfo.cs
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netstandard2.1\Order.Service.Proxies.csproj.CoreCompileInputs.cache
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netstandard2.1\Order.Service.Proxies.dll
-D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netstandard2.1\Order.Service.Proxies.pdb

@@ -16,12 +16,12 @@ namespace Order.Service.EventHandlers
        INotificationHandler<OrderCreateCommand>
     {
         private readonly OrderDbContext context;
-        private readonly ICatalogProxy _catalogProxy;
+        private readonly ICatalogQueueProxy _catalogProxy;
         private readonly ILogger<OrderCreateEventHandler> _logger;
 
         public OrderCreateEventHandler(
             OrderDbContext context,
-            ICatalogProxy catalogProxy,
+            ICatalogQueueProxy catalogProxy,
             ILogger<OrderCreateEventHandler> logger)
         {
             this.context = context;

@@ -16,8 +16,6 @@ using Microsoft.OpenApi.Models;
 using Order.Persistence.Database;
 using Order.Service.Proxies;
 using Order.Service.Proxies.Catalog;
-//using Order.Service.Proxies;
-//using Order.Service.Proxies.Catalog;
 using Order.Service.Queries;
 using System.Reflection;
 using System.Text;
@@ -55,8 +53,12 @@ namespace Order.Api
 			// ApiUrls
 			services.Configure<ApiUrls>(opts => Configuration.GetSection("ApiUrls").Bind(opts));
 
+			// AzureServiceBus
+			services.Configure<AzureServiceBus>(opts => Configuration.GetSection("AzureServiceBus").Bind(opts));
+
 			// Proxies
-			services.AddHttpClient<ICatalogProxy, CatalogProxy>();
+			//services.AddHttpClient<ICatalogHttpProxy, CatalogHttpProxy>();
+			services.AddTransient<ICatalogQueueProxy, CatalogQueueProxy>();
 
 			// Event handlers
 			services.AddMediatR(Assembly.Load("Order.Service.EventHandlers"));
