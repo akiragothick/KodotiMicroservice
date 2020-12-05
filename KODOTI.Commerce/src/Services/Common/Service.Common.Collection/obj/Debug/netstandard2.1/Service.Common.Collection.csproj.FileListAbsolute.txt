@@ -6,3 +6,11 @@ D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Comm
 D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
 D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.dll
 D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\bin\Debug\netstandard2.1\Service.Common.Collection.deps.json
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\bin\Debug\netstandard2.1\Service.Common.Collection.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\bin\Debug\netstandard2.1\Service.Common.Collection.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.AssemblyInfoInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.AssemblyInfo.cs
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\netstandard2.1\Service.Common.Collection.pdb

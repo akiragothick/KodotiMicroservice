@@ -10,3 +10,15 @@ D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Comm
 D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.csproj.CopyComplete
 D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.dll
 D:\TestProjects\KODOTI.Commerce\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Paging.deps.json
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Paging.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Paging.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Collection.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\bin\Debug\netstandard2.1\Service.Common.Collection.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.csprojAssemblyReference.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.AssemblyInfo.cs
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.csproj.CopyComplete
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Common\Service.Common.Paging\obj\Debug\netstandard2.1\Service.Common.Paging.pdb

@@ -19,6 +19,9 @@ using Common.Logging;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using HealthChecks.UI.Client;
 using Customer.Service.Queries;
+using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Customer.Api
 {
@@ -53,11 +56,55 @@ namespace Customer.Api
 			// Query services
 			services.AddTransient<IClientQueryService, ClientQueryService>();
 
+			// API Controllers
 			services.AddControllers();
 
-			services.AddSwaggerGen(c =>
+			// Add Authentication
+			var secretKey = Encoding.ASCII.GetBytes(
+				Configuration.GetValue<string>("SecretKey")
+			);
+
+			services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(x =>
 			{
-				c.SwaggerDoc("v1", new OpenApiInfo { Title = "Customer.Api", Version = "v1" });
+				x.RequireHttpsMetadata = false;
+				x.SaveToken = true;
+				x.TokenValidationParameters = new TokenValidationParameters
+				{
+					ValidateIssuerSigningKey = true,
+					IssuerSigningKey = new SymmetricSecurityKey(secretKey),
+					ValidateIssuer = false,
+					ValidateAudience = false
+				};
+			});
+
+			services.AddSwaggerGen(options =>
+			{
+				options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+				{
+
+					Name = "Authorization",
+					In = ParameterLocation.Header,
+					Type = SecuritySchemeType.ApiKey,
+					Scheme = "Bearer",
+					BearerFormat = "JWT",
+					Description = "Input your Bearer token in this format - Bearer {your token here} to access this API",
+				});
+				options.AddSecurityRequirement(new OpenApiSecurityRequirement
+				{
+					{
+						new OpenApiSecurityScheme
+						{
+							Reference = new OpenApiReference
+							{
+								Type = ReferenceType.SecurityScheme,
+								Id = "Bearer",
+							},
+							Scheme = "Bearer",
+							Name = "Bearer",
+							In = ParameterLocation.Header,
+						}, new List<string>()
+					},
+				});
 			});
 		}
 

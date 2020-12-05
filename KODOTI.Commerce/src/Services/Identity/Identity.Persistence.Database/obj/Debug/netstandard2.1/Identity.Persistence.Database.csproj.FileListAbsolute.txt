@@ -1,0 +1,12 @@
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\bin\Debug\netstandard2.1\Identity.Persistence.Database.deps.json
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\bin\Debug\netstandard2.1\Identity.Persistence.Database.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\bin\Debug\netstandard2.1\Identity.Persistence.Database.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\bin\Debug\netstandard2.1\Identity.Domain.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\bin\Debug\netstandard2.1\Identity.Domain.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\obj\Debug\netstandard2.1\Identity.Persistence.Database.csprojAssemblyReference.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\obj\Debug\netstandard2.1\Identity.Persistence.Database.AssemblyInfoInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\obj\Debug\netstandard2.1\Identity.Persistence.Database.AssemblyInfo.cs
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\obj\Debug\netstandard2.1\Identity.Persistence.Database.csproj.CoreCompileInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\obj\Debug\netstandard2.1\Identity.Persistence.Database.csproj.CopyComplete
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\obj\Debug\netstandard2.1\Identity.Persistence.Database.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Persistence.Database\obj\Debug\netstandard2.1\Identity.Persistence.Database.pdb

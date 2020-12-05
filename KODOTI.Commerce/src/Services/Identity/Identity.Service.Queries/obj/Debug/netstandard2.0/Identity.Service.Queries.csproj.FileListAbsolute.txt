@@ -1,0 +1,8 @@
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\bin\Debug\netstandard2.0\Identity.Service.Queries.deps.json
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\bin\Debug\netstandard2.0\Identity.Service.Queries.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\bin\Debug\netstandard2.0\Identity.Service.Queries.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\obj\Debug\netstandard2.0\Identity.Service.Queries.AssemblyInfoInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\obj\Debug\netstandard2.0\Identity.Service.Queries.AssemblyInfo.cs
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\obj\Debug\netstandard2.0\Identity.Service.Queries.csproj.CoreCompileInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\obj\Debug\netstandard2.0\Identity.Service.Queries.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Service.Queries\obj\Debug\netstandard2.0\Identity.Service.Queries.pdb

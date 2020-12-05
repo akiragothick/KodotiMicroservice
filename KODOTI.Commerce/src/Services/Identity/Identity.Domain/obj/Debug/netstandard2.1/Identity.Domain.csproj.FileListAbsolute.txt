@@ -1,0 +1,8 @@
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\bin\Debug\netstandard2.1\Identity.Domain.deps.json
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\bin\Debug\netstandard2.1\Identity.Domain.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\bin\Debug\netstandard2.1\Identity.Domain.pdb
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\obj\Debug\netstandard2.1\Identity.Domain.AssemblyInfoInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\obj\Debug\netstandard2.1\Identity.Domain.AssemblyInfo.cs
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\obj\Debug\netstandard2.1\Identity.Domain.csproj.CoreCompileInputs.cache
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\obj\Debug\netstandard2.1\Identity.Domain.dll
+D:\GITHUB\KodotiMicroservice\KODOTI.Commerce\src\Services\Identity\Identity.Domain\obj\Debug\netstandard2.1\Identity.Domain.pdb
